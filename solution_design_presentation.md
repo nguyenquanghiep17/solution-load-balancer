@@ -48,7 +48,7 @@ graph LR
 
 ## 3. Ràng buộc
 
-- ❌ Không sửa code Worker (Quartz.NET) — quá phức tạp
+- ❌ Không sửa code Worker (Quartz.NET)
 - ⚠️ Hạn chế tối đa sửa code API Pod
 - ✅ Có thể tạo database trung gian, worker mới, trigger, event, script
 
